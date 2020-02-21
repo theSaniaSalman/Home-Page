@@ -1,0 +1,134 @@
+body{
+background-color:wheat;
+}
+#menu-bar{
+background-color:coral;
+width:100%;
+padding:30px;
+border: crimson solid 7px;
+border-left: none;
+border-right: none;
+}
+#menu-bar>a{
+top:25px;
+position: absolute;
+text-decoration:none;
+font-weight: 700;
+color:black;
+}
+#opt1 {
+right:390px;
+}
+#opt2 {
+right:300px;
+}
+#opt3 {
+right:200px;
+}
+#opt4 {
+right:75px;
+}
+#side-bar{
+position: absolute;
+background-color: sandybrown;
+width:15%;
+border-right:crimson solid 7px;
+
+}
+.bar-options{
+color:orangered;
+font-weight: bold;
+display: block;
+text-align: center;
+text-decoration: none;
+border-bottom: crimson solid 4px;
+padding-top:40px;
+}
+#hollywood{
+left:450px;
+top:2px;
+width: 250%;
+position: absolute;
+display: inline-block;   
+border:silver solid 2px;
+}
+#news{
+position: relative;
+top:500px;
+width:5%;
+border-right: crimson solid 7px;
+border-top: crimson solid 4px;
+border-bottom: crimson solid 4px;
+}
+#news-heading{
+text-align: center;
+font-weight: 700;
+font-style: italic;
+text-decoration: underline;
+font-size:20px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: orangered;
+}
+#news-table{
+width:100%;
+}
+#filmfest{
+width:98%;
+}
+#cinekids{
+width:98%;
+}
+#demo-text{
+top:450px;
+left:380px;
+position: absolute;
+}
+.line{
+display: block;
+font-style: oblique;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: orangered;
+}
+#img-tables{
+position: absolute;
+top:530px;
+left:350px;
+}
+.border-images{
+border: silver solid 4px;
+}
+#td2{
+left:40px;
+position: relative;
+}
+#td3{
+left:80px;
+position: relative;
+}
+#img3{
+width:100%;
+}
+#text-table{
+position: absolute;
+top:800px;
+left:300px;
+}
+#text1{
+width:350px;
+}
+#blank-row{
+width:40px;
+}
+#text2{
+position: absolute;
+top:3px;
+width: 400px;
+}
+table td{
+text-align: justify;
+font-weight: 500;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: orangered;
+line-height: 30px;
+}
+
