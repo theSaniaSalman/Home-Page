@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>trial</title>
+    <link href="D:\first.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <div id="menu-bar">
+        <a href="#" id="opt1" class="options">Home</a>
+        <a href="#" id="opt2" class="options">About Us</a> 
+        <a href="#" id="opt3" class="options">Contact Us</a>
+        <a href="#" id="opt4" class="options">Create Account</a>
+    </div>
+
+    <div id="side-bar">
+        <a href="#" id="bar1" class="bar-options">DRAMA</a>
+        <a href="#" id="bar2" class="bar-options">COMEDY</a>
+        <a href="#" id="bar3" class="bar-options">ROMANCE</a>
+        <a href="#" id="bar4" class="bar-options">ACTION</a>
+        <a href="#" id="bar5" class="bar-options">THRILLER</a>
+        <a href="#" id="bar6" class="bar-options">FANTASY</a>
+        <a href="#" id="bar7" class="bar-options">HORROR</a>
+        <a href="#" id="bar8" class="bar-options">MYSTERY</a>
+        <img src="D:\hollyb.png" alt="Hollywood Blockbusters" title="Hollywood Blockbusters" id="hollywood">
+    </div>
+   
+    <table id="news">
+    <tr >
+       <td id="news-heading" class="news-table">LATEST NEWS</td>
+    </tr>
+    <tr class="news-table">
+        <td><img id="filmfest"  src="D:\d_files\images_012.jpg" alt="film festival" title="Film festival">
+        </td>
+    </tr>
+    <tr class="news-table">
+        <td><img id="cinekids" src="D:\d_files\images.png" alt="workshop" title="CineKids Workshop">
+        </td>
+    </tr>
+    <tr class="news-table">
+        <td><img src="D:\d_files\images_011.jpg" alt="retro cinema" title="RetroCinema"> 
+        </td>
+    </tr>
+    </table>
+
+    <div id="demo-text">
+        <span class="line">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas numquam repellat ipsam mollitia,</span>
+        <span class="line">distinctio blanditiis itaque eum corrupti dignissimos voluptatem modi delectus qui enim rem </span>
+        <span class="line">semlique error laudantium eaque fugit!</span>
+    </div>
+
+    <table id="img-tables">
+       <tr>
+           <th id="img1"><img src="D:\a_files\images_010.jpg"></th>
+           <th id="td2"><img class="border-images" src="D:\a_files\images_005.jpg"></th>
+           <th id="td3" ><img id="img3" class="border-images" src="D:\a_files\images_014.jpg"></th>
+       </tr>
+    </table>
+    <table id="text-table">
+     <tr>
+         <td id="text1">
+             Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+             Sed vitae adipisci ea cum, quo maxime impedit facere, velit non, error 
+             expedita dolorum rem quas voluptatum modi laborum temporibus iure quam.
+             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus repudiandae reiciendis dolorem
+             sequi voluptatibus adipisci aliquid quasi aliquam deserunt voluptate aperiam, ut sit eveniet eos.
+        </td> 
+        <td id="blank-row">
+        </td>
+        <td id="text2">
+            Consectetur adipisicing elit. Nobis, alias perspiciatis quae incidunt 
+            vero sequi totam labore nihil dolores dolorum natus laudantium iure maxime ducimus 
+            placeat dolorem! Magni, nihil nesciunt?
+            vero sequi totam labore nihil dolores dolorum natus laudantium iure maxime ducimus 
+            placeat dolorem! Magni, nihil nesciunt?
+            sequi voluptatibus adipisci aliquid quasi aliquam deserunt voluptate aperiam, ut sit eveniet eos praesentium,
+            aut exercitationem eligendi non.
+        </td>
+    </tr>
+    </table>
+    </body>
+</html>
