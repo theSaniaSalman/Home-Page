@@ -131,4 +131,26 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 color: orangered;
 line-height: 30px;
 }
+#parent{
+position: relative;
+left: 260px;
+top:250px;
+border: orangered solid 4px;
+padding-bottom:192px;
+margin-right:390px;
+}
+#updates{
+position: absolute;
+}
+.info1{
+position: absolute;
+left:270px;
+top:-10px;
+text-align: justify;
+font-style: italic;
+font-weight: 500;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: crimson;
+line-height: 28px;
+}
 
